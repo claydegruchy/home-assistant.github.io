@@ -44,7 +44,7 @@ Go to the add-on store (see previous step), click on Configurator and click on I
  - Start the add-on
  - You will be able to click the "WEB UI" link to open the Web UI
 
-Time for the first practice with the configurator. Add the following to `configuration.yaml` file to add a link to the Configurator in the sidebar:
+Time for the first practice with the configurator. Add the following to `configuration.yaml` file (found within the file menu on the left of the page) to add a link to the Configurator in the sidebar:
 
 ```yaml
 panel_iframe:
